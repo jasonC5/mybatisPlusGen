@@ -19,7 +19,7 @@ public class TestAutoGenerate {
         // Step2：全局配置
         GlobalConfig gc = new GlobalConfig();
         // 填写代码生成的目录(需要修改)  D:/gitHub/mybatisPlusGen
-        String projectPath = "D:\\gitHub\\mybatisPlusGen";
+        String projectPath = "D:\\gitHub\\mybatisPlusGen2";
         // 拼接出代码最终输出的目录
         gc.setOutputDir(projectPath + "/src/main/java");
         // 配置开发者信息（可选）（需要修改）
