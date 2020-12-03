@@ -1,0 +1,6 @@
+spring:
+    datasource:
+        driver-class-name: com.mysql.jdbc.Driver
+        url: jdbc:mysql://10.30.94.8:3306/dxh_mem?characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull&transformedBitIsBoolean=true
+        username: dxh
+        password: Dxh2017$$
